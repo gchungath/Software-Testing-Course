@@ -5,6 +5,7 @@ public class Subtract {
      * Return the difference of two integers.
      */
     // this is to subtract two numbers and return the result
+    // testing the subtract method
     public static int subtract(int x, int y) {
         return x - y;
     }
