@@ -19,7 +19,7 @@ class FindFirstDuplicate {
         if (firstDuplicate != -1) {
             System.out.println("The first duplicate is: " + firstDuplicate);
         } else {
-            System.out.println("No duplicates found.");
+            System.out.println("No duplicates found.");//removed it
         }
     }
 }
